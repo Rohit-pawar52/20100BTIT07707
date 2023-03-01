@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @20100BTIT07707
-- 👀 I’m interested in cloud computing.
-- 🌱 I’m currently learning languages like c,c++,java.
+- 👀 I’m interested in web designing.
+- 🌱 I’m currently learning languages like c,c++,python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @20100BTIT07707
+- i"m front-end-developer
 - 👀 I’m interested in web designing.
 - 🌱 I’m currently learning languages like python,javascript,mysql.
 - 💞️ I’m looking to collaborate on ...
